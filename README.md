@@ -8,4 +8,9 @@ Dr. Wickramasinghe earned his PhD in Engineering from Victoria University, Austr
 In addition to his doctoral research, Amila holds a bachelor’s degree in chemical and process engineering from the University of Moratuwa, Sri Lanka. He has diverse industrial and academic experience, spanning coal power generation, wind power modelling, wildland fire modelling, water and wastewater treatment, process optimization and standardization, energy recovery and reuse, and textile dyeing and finishing in Sri Lanka, China, Germany, and Australia. Since 2023, he has also held a postdoctoral fellowship at the University of Tasmania, where his research focuses on wildfire modelling, particularly in the areas of firebrand transport, lightning ignitions, and fuel dryness.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amilwickz)](https://github.com/Amilwickz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amilwickz&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amilwickz&layout=donut-vertical)](https://github.com/Amilwickz/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Amilwickz/github-readme-stats)
