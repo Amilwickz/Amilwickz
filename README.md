@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Who am I?
-Amil Wickramasinghe is a Postdoctoral Research Fellow in Fire Risk Modelling at the Hawkesbury Institute for the Environment. His research focuses on developing spatially explicit fire risk forecasting methods for the forest regions of southeast Australia, utilising a combination of machine learning and process-based models. His work is funded by the Australian Research Council Discovery Grant (DP220100795) and supervised by Professor Matthias Boer.
+Amil Wickramasinghe is a Postdoctoral Research Fellow in Fire Risk Modelling at the Hawkesbury Institute for the Environment. His research focuses on developing spatially explicit fire risk forecasting methods for the forest regions of southeast Australia, utilising a combination of machine learning and process-based models. 
 
 Dr. Wickramasinghe earned his PhD in Engineering from Victoria University, Australia, with a thesis titled Mapping Firebrand and Heat Flux on Structures in the Wildland-Urban Interface. His research introduced novel correlations to quantify firebrand attacks on structures under various fire weather conditions, with the aim of improving the Australian building standard AS3959.
 
